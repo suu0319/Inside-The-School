@@ -28,8 +28,8 @@ Space: 跳躍
 ## Preview  
 ![image](https://github.com/user-attachments/assets/b22a5b28-4b56-480f-b84a-d2fcecae56fd)  
 ![image](https://github.com/user-attachments/assets/dbba2edc-cc6c-4f12-a197-8f0de086692c)  
-![image](https://github.com/user-attachments/assets/ada69101-3cf5-48c2-8811-3ff2dc099cc3)
-
+![image](https://github.com/user-attachments/assets/ada69101-3cf5-48c2-8811-3ff2dc099cc3)  
+![image](https://github.com/user-attachments/assets/2d19a277-3667-4a96-9aff-5f9c723ab8a4)
 
 ## Video  
 [Youtube](https://youtu.be/5y0IVB4NLoI)  
