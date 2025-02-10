@@ -26,9 +26,10 @@ Space: 跳躍
 - Photon Unity Remote(PUN2)
 
 ## Preview  
-![畢製](https://github.com/suu0319/Inside-The-School/assets/59763965/ae8f202c-b921-42af-85b6-3c28a906dfc1)
-![image](https://github.com/suu0319/Inside-The-School/assets/59763965/770560c8-3d23-4c67-ad70-1040c27aa64a)
-![image](https://github.com/suu0319/Inside-The-School/assets/59763965/a95c38bc-80a7-4c85-aed6-b70b047d5369)
+![image](https://github.com/user-attachments/assets/b22a5b28-4b56-480f-b84a-d2fcecae56fd)  
+![image](https://github.com/user-attachments/assets/dbba2edc-cc6c-4f12-a197-8f0de086692c)  
+![image](https://github.com/user-attachments/assets/ada69101-3cf5-48c2-8811-3ff2dc099cc3)
+
 
 ## Video  
 [Youtube](https://youtu.be/5y0IVB4NLoI)  
