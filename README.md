@@ -2,6 +2,9 @@
 ## Attention
 Due to LFS data limitations, the full project is available on Google Drive
 
+## Platform
+PC (Online)
+
 ## Intro
 A first-person, two-player horror online puzzle game in which two students meet in the middle of the night to explore a school, but the atmosphere gets weirder and weirder as they go deeper and deeper into their quest...
 
