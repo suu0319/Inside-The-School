@@ -1,18 +1,18 @@
 # Inside The School  
 ## Attention
-### 由於lfs data限制，完整專案在google drive
+Due to LFS data limitations, the full project is available on Google Drive
 
-## About
-第一人稱雙人恐怖解謎遊戲，兩位學生相約半夜前往學校探索，但隨著探索的深入氣氛卻越來越詭異...  
+## Intro
+A first-person, two-player horror online puzzle game in which two students meet in the middle of the night to explore a school, but the atmosphere gets weirder and weirder as they go deeper and deeper into their quest...
 
 ## Control    
 ```  
-W、A、S、D: 前、左、後、右移動   
-F: 手電筒開關  
-E: 物件互動  
-Esc: 暫停選單 
-Shift: 跑步  
-Space: 跳躍  
+W, A, S, D: Move Forward, Left, Backward, Right
+F: Toggle Flashlight
+E: Interact with Objects
+Esc: Pause Menu
+Shift: Sprint
+Space: Jump
 ```  
 
 ## Skills  
